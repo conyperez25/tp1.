@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;600&family=New+Amsterdam&display=swap');
+
+
+.intro-text {
+    font-size: 13px; /* Tamaño de fuente más grande */
+    font-weight: 100; /* Grosor del texto */
+    margin: 5px 0; /* Margen superior e inferior */
+    color: #333; /* Color del texto */
+}
+
+/* Estilo para el párrafo del autor */
+.author {
+    font-size: 13px; /* Tamaño de fuente más grande */
+    font-weight: 100; /* Grosor del texto */
+    margin: 5px 0; /* Margen superior e inferior */
+    color: #333; /* Color del texto */
+}
+
+/* Estilo para el párrafo de la fecha */
+.date {
+    font-size: 13px; /* Tamaño de fuente más grande */
+    font-weight: 100; /* Grosor del texto */
+    margin: 5px 0; /* Margen superior e inferior */
+    color: #333; /* Color del texto */
+}
+
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color: #f0f0f0; 
+    color: #333; 
+    text-align: left; 
+    margin: 50px;
+    padding: 0;
+}
+
+
+h1, h2, h3 {
+    font-family: 'New Amsterdam', sans-serif; 
+    font-weight: 700; 
+    text-align: left; 
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+
+a {
+    color: #007bff; /* Color de los enlaces */
+    text-decoration: underline; 
+}
+
+a:hover {
+    text-decoration: underline; /
+}
+
+/* Estilo para párrafos */
+p {
+    font-weight: 400; /* Grosor del texto en los párrafos */
+    line-height: 1.6; /* Espaciado entre líneas en los párrafos */
+    margin: 50px 0; /* Margen superior e inferior en los párrafos */
+}
+
+/* Estilo para listas ordenadas */
+ol {
+    margin: 15px 0;
+    padding-left: 40px; /* Espaciado a la izquierda de las listas */
+}
+
+li {
+    margin-bottom: 10px; /* Espaciado inferior en los elementos de la lista */
+}
